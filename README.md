@@ -1,5 +1,5 @@
-Estudiante 1: Lyda Acuña.
-Estudiante 2: Juan Sebastián Hoyos.
+Estudiante 1: Lyda Acuña | lm.acunac@uniandes.edu.co | 201715885
+Estudiante 2: Juan Sebastián Hoyos |js.hoyosm@uniandes.edu.co | 201822167
 
 
 #ISIS1225 - Estructura de un proyecto
